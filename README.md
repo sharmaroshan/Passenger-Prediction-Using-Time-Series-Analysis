@@ -45,3 +45,4 @@ Once we have the final ARIMA model, we are now ready to make predictions on the 
 
 Applications of Time Series Model
 Now, we’ll use the same example that we have used above. Then, using time series, we’ll make future predictions. We recommend you to check out the example before proceeding further.
+
